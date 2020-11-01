@@ -1,6 +1,8 @@
 # git-github_course
 Learning Git and Github on Platzi Day
 
+`git log` customization
+
 ## First Option
 
 ```
